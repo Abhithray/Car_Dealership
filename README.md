@@ -5,8 +5,8 @@
  
  Requirements
 1.Download and Install any local web server such as XAMPP.
-2.Download the provided source code zip file. (download button is located below)
-3.System Installation/Setup
+2.Download the provided source code zip file.
+3.System Installation/Setup.
 
 -Enable the GD Library in your php.ini file.
 -Open your XAMPP Control Panel and start Apache and MySQL.
